@@ -13,18 +13,19 @@ Use at you own risk!
 
 ## Software Configuration
 
-* Creality V4.2.7:
-fluidpi v1.16.2
-klipper v0.10.0-66-g5c10001b
-moonraker v0.7.1-76-g6a6422c
+Creality V4.2.7:
+* fluidpi v1.16.2
+* klipper v0.10.0-66-g5c10001b
+* moonraker v0.7.1-76-g6a6422c
 
-* BigTreeTech SKR Mini E3 3.0:
-fluidpi v1.17.2
-klipper v0.10.0-384-g5517a856
-moonraker v0.7.1-561-g94a11ff
+BigTreeTech SKR Mini E3 3.0:
+* fluidpi v1.17.2
+* klipper v0.10.0-384-g5517a856
+* moonraker v0.7.1-561-g94a11ff
 
 ## How to install?
-See 
-https://www.youmaketech.com/klipper-on-ender-3/
-https://youtu.be/MaUU8stsZPo
-https://www.youmaketech.com/bigtreetech-skr-mini-e3-v3-0-mainboard-upgrade-for-ender-3/
+See:
+* Klipper on Ender 3 YouTube video: https://youtu.be/MaUU8stsZPo
+* https://www.youmaketech.com/klipper-on-ender-3/ 
+
+* https://www.youmaketech.com/bigtreetech-skr-mini-e3-v3-0-mainboard-upgrade-for-ender-3/
