@@ -25,7 +25,6 @@ BigTreeTech SKR Mini E3 3.0:
 
 ## How to install?
 See:
-* Klipper on Ender 3 YouTube video: https://youtu.be/MaUU8stsZPo
-* https://www.youmaketech.com/klipper-on-ender-3/ 
-
-* https://www.youmaketech.com/bigtreetech-skr-mini-e3-v3-0-mainboard-upgrade-for-ender-3/
+* [Klipper on Ender 3 YouTube video](https://youtu.be/MaUU8stsZPo)
+* [How to install Klipper on an Ender 3](https://www.youmaketech.com/klipper-on-ender-3/)
+* [Klipper config files for the BigTreeTech SKR Mini E3 3.0](https://www.youmaketech.com/bigtreetech-skr-mini-e3-v3-0-mainboard-upgrade-for-ender-3/)
